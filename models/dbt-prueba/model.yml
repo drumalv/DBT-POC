@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: transactional_data_DB
+    tables:
+      - name: transactional_data
